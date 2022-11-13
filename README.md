@@ -1,3 +1,3 @@
-# real-life-flappy-bird
+# Flappy Bird IRL
 A computer Vision project
 
